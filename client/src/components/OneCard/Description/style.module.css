@@ -1,0 +1,10 @@
+.length {
+  display: flex;
+  justify-content: space-between;
+}
+.blabla {
+  margin-left: 18px;
+  display: flex;
+  justify-content: space-between;
+  max-width: 95%;
+}

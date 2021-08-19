@@ -1,0 +1,21 @@
+.img {
+   width: 100%;
+   height: 40vh;
+   object-fit:cover;
+   color: rgba(0, 0, 0, 0.089);
+}
+.title {
+  left: 20%;
+  color: rgb(255, 255, 255);
+}
+.shadow {
+  margin-top: 300px;
+  margin-left: 5vw;
+  /* font-size: 20px; */
+}
+.diff {
+  display: flex;
+}
+.overlay {
+  margin-top: 130px;
+}
